@@ -7,6 +7,3 @@
   imagepng($im);
   imagedestroy($im);
 ?>
-
-
-
